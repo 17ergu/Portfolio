@@ -1,3 +1,2 @@
 # Portfolio
-Här kan det finnas saker
-, Kolla på min wiki
+Här kan det finnas saker, kolla på min wiki
